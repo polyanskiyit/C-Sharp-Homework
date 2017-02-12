@@ -19,6 +19,8 @@ namespace Homework__1
 
             AverageMark averageMark = new AverageMark();
 
+            Console.WriteLine("Hello Git");
+
 
             Console.WriteLine("Середне число:");
             Console.WriteLine(
