@@ -21,6 +21,7 @@ namespace Homework__1
 
             Console.WriteLine("Hello Git");
 
+            Console.WriteLine("Hello Git II");
 
             Console.WriteLine("Середне число:");
             Console.WriteLine(
