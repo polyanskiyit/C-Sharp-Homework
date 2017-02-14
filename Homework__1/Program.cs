@@ -17,14 +17,9 @@ namespace Homework__1
             Console.WriteLine("Введiть третю оцiнку:");
             double tn = Convert.ToDouble(Console.ReadLine());
 
+
             AverageMark averageMark = new AverageMark();
-
             
-            Console.WriteLine("Hello Git II");
-
-
-            Console.WriteLine("Hello Git III");
-
             Console.WriteLine("Середне число:");
             Console.WriteLine(
                 averageMark.result(fn, sn, tn)
